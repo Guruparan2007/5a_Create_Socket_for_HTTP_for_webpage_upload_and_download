@@ -55,18 +55,18 @@ if __name__ == "__main__":
 
     # Upload file
 
-    upload_response = upload_file(host, port, 'example.txt.txt')
+    upload_response = upload_file(host, port, 'details.txt')
     print("Upload response:", upload_response)
 
     # Download file
     download_file(host, port, 'example.txt.txt')
     print("File downloaded successfully.")
-
 ```
 
 ## OUTPUT:
 
-<img width="936" height="276" alt="Screenshot 2025-10-22 115437" src="https://github.com/user-attachments/assets/b08c74fb-1e64-4604-b695-4805d5182b1c" />
+<img width="875" height="888" alt="Screenshot 2025-10-29 100542" src="https://github.com/user-attachments/assets/eb69be70-d770-4f9a-8804-29b3df62eb7d" />
+
 
 
 ## Result:
